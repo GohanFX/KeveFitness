@@ -1,0 +1,1 @@
+The KeveFitness project is tailored for a gym in Ráckeve, serving as a comprehensive management system for members' gym subscriptions. It efficiently handles subscription details, including expiration dates, renewal notifications, and other pertinent information, streamlining the administrative aspects of the fitness center.
